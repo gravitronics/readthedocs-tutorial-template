@@ -27,8 +27,6 @@ how to :ref:`installation` the project.
    automata_task_database
    automata_task_registry
    config
-   config
-   mock_automata_instance
    symbol
    symbol_embedding
    symbol_embedding_map
