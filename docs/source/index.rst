@@ -9,38 +9,40 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   symbol
-   automata_agent
-   automata_task
-   automata_agent_config
-   symbol_graph
-   symbol_similarity
    automata_action_extractor
+   automata_agent
+   automata_agent_config
    automata_agent_config_builder
-   automata_task_registry
-   symbol_rank
-   symbol_embedding_map
-   automata_coordinator
-   automata_instance
-   symbol_searcher
    automata_agent_config_factory
-   symbol_parser
-   symbol_searcher_tool_manager
-   symbol_reference
-   automata_conversation_database
-   automata_task_database
-   symbol_rank_config
-   automata_instruction_payload
-   symbol_searcher_factory
-   symbol_embedding
    automata_agent_factory
-   symbol_factory
+   automata_conversation_database
+   automata_coordinator
    automata_coordinator_factory
-   mock_automata_instance
    automata_execute_behavior
-   symbol_similarity_factory
-   symbol_graph_factory
+   automata_instance
+   automata_instruction_payload
    automata_manager
    automata_manager_factory
+   automata_task
+   automata_task_database
+   automata_task_registry
+   config
+   config
+   mock_automata_instance
+   symbol
+   symbol_embedding
+   symbol_embedding_map
    symbol_embedding_map_factory
+   symbol_factory
+   symbol_graph
+   symbol_graph_factory
+   symbol_parser
+   symbol_rank
+   symbol_rank_config
    symbol_rank_factory
+   symbol_reference
+   symbol_searcher
+   symbol_searcher_factory
+   symbol_searcher_tool_manager
+   symbol_similarity
+   symbol_similarity_factory
