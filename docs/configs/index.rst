@@ -9,7 +9,7 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    automata_agent_configs/index
    automata_agent_config

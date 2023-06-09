@@ -9,7 +9,7 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    agent/index
    coordinator/index

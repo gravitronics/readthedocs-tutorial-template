@@ -9,7 +9,7 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    configs/index
    core/index
