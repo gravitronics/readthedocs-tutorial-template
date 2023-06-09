@@ -1,5 +1,5 @@
-Welcome to Automata's automata_agent documentation!
-==================================================
+automata_agent
+==============
 
 **Automata** is a Python library for autonomous agents.
 

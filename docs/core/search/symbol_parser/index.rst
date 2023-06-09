@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_parser documentation!
-=================================================
+symbol_parser
+=============
 
 **Automata** is a Python library for autonomous agents.
 

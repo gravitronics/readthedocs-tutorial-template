@@ -1,5 +1,5 @@
-Welcome to Automata's tests documentation!
-=========================================
+tests
+=====
 
 **Automata** is a Python library for autonomous agents.
 

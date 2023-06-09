@@ -1,5 +1,5 @@
-Welcome to Automata's AutomataInstance documentation!
-====================================================
+AutomataInstance
+================
 
 **Automata** is a Python library for autonomous agents.
 

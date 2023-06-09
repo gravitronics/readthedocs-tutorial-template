@@ -1,5 +1,5 @@
-Welcome to Automata's coordinator documentation!
-===============================================
+coordinator
+===========
 
 **Automata** is a Python library for autonomous agents.
 

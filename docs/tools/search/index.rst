@@ -1,5 +1,5 @@
-Welcome to Automata's search documentation!
-==========================================
+search
+======
 
 **Automata** is a Python library for autonomous agents.
 

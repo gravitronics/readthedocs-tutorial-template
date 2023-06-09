@@ -1,5 +1,5 @@
-Welcome to Automata's automata_agent_configs documentation!
-==========================================================
+automata_agent_configs
+======================
 
 **Automata** is a Python library for autonomous agents.
 

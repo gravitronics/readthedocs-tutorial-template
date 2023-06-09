@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_searcher_manager documentation!
-===========================================================
+symbol_searcher_manager
+=======================
 
 **Automata** is a Python library for autonomous agents.
 

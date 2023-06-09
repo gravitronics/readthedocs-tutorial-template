@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_graph documentation!
-================================================
+symbol_graph
+============
 
 **Automata** is a Python library for autonomous agents.
 

@@ -1,5 +1,5 @@
-Welcome to Automata's manager documentation!
-===========================================
+manager
+=======
 
 **Automata** is a Python library for autonomous agents.
 

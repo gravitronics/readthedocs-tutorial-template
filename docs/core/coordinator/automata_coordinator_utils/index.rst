@@ -1,5 +1,5 @@
-Welcome to Automata's automata_coordinator_utils documentation!
-==============================================================
+automata_coordinator_utils
+==========================
 
 **Automata** is a Python library for autonomous agents.
 

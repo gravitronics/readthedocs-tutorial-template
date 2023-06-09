@@ -1,5 +1,5 @@
-Welcome to Automata's automata_task_executor documentation!
-==========================================================
+automata_task_executor
+======================
 
 **Automata** is a Python library for autonomous agents.
 

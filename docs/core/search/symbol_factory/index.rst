@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_factory documentation!
-==================================================
+symbol_factory
+==============
 
 **Automata** is a Python library for autonomous agents.
 

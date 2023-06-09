@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_rank documentation!
-===============================================
+symbol_rank
+===========
 
 **Automata** is a Python library for autonomous agents.
 

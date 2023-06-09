@@ -1,5 +1,5 @@
-Welcome to Automata's automata_task_registry documentation!
-==========================================================
+automata_task_registry
+======================
 
 **Automata** is a Python library for autonomous agents.
 

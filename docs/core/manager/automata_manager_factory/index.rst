@@ -1,5 +1,5 @@
-Welcome to Automata's automata_manager_factory documentation!
-============================================================
+automata_manager_factory
+========================
 
 **Automata** is a Python library for autonomous agents.
 

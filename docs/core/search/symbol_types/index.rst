@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_types documentation!
-================================================
+symbol_types
+============
 
 **Automata** is a Python library for autonomous agents.
 

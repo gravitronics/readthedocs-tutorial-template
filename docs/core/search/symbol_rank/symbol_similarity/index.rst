@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_similarity documentation!
-=====================================================
+symbol_similarity
+=================
 
 **Automata** is a Python library for autonomous agents.
 

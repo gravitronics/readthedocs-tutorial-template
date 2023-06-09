@@ -1,5 +1,5 @@
-Welcome to Automata's symbol_embedding_map documentation!
-========================================================
+symbol_embedding_map
+====================
 
 **Automata** is a Python library for autonomous agents.
 

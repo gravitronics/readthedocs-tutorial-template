@@ -1,5 +1,5 @@
-Welcome to Automata's automata_action_extractor documentation!
-=============================================================
+automata_action_extractor
+=========================
 
 **Automata** is a Python library for autonomous agents.
 

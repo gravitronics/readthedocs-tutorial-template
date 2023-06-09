@@ -1,5 +1,5 @@
-Welcome to Automata's tasks documentation!
-=========================================
+tasks
+=====
 
 **Automata** is a Python library for autonomous agents.
 

@@ -1,5 +1,5 @@
-Welcome to Automata's test_automata_coordinator documentation!
-=============================================================
+test_automata_coordinator
+=========================
 
 **Automata** is a Python library for autonomous agents.
 

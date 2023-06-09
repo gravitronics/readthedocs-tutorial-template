@@ -1,5 +1,5 @@
-Welcome to Automata's automata_database_manager documentation!
-=============================================================
+automata_database_manager
+=========================
 
 **Automata** is a Python library for autonomous agents.
 

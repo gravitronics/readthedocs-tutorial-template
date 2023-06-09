@@ -1,5 +1,5 @@
-Welcome to Automata's core documentation!
-========================================
+core
+====
 
 **Automata** is a Python library for autonomous agents.
 
