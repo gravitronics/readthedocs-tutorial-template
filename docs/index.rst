@@ -9,6 +9,7 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
+   :maxdepth: 3 
    core/agent/automata_action_extractor/automata_action_extractor
    core/agent/automata_agent/automata_agent
    configs/automata_agent_configs/automata_agent_config
