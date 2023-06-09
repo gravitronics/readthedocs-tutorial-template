@@ -12,5 +12,5 @@ how to :ref:`installation` the project.
    :maxdepth: 1
 
    AutomataAgentConfig/index
-   automata_agent_config/index
    automata_agent_config
+   automata_instruction_payload

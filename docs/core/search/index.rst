@@ -16,5 +16,3 @@ how to :ref:`installation` the project.
    symbol_parser/index
    symbol_rank/index
    symbol_types/index
-   symbol_factory
-   symbol_types

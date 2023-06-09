@@ -14,4 +14,3 @@ how to :ref:`installation` the project.
    symbol_embedding_map/index
    symbol_rank/index
    symbol_similarity/index
-   symbol_rank
