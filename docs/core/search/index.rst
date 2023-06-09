@@ -1,5 +1,5 @@
-Welcome to Automata's docs documentation!
-========================================
+Welcome to Automata's search documentation!
+==========================================
 
 **Automata** is a Python library for autonomous agents.
 
@@ -11,7 +11,8 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   configs/index
-   core/index
-   tool_management/index
-   tools/index
+   symbol_factory/index
+   symbol_graph/index
+   symbol_parser/index
+   symbol_rank/index
+   symbol_types/index

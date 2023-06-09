@@ -1,5 +1,5 @@
-Welcome to Automata's docs documentation!
-========================================
+Welcome to Automata's automata_task_registry documentation!
+==========================================================
 
 **Automata** is a Python library for autonomous agents.
 
@@ -11,7 +11,5 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   configs/index
-   core/index
-   tool_management/index
-   tools/index
+   automata_task_database
+   automata_task_registry
