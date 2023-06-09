@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_action_extractor/index
-   automata_agent/index
-   automata_agent_utils/index
-   automata_database_manager/index
+   automata_action_extractor
+   automata_agent
+   automata_agent_factory
+   automata_conversation_database

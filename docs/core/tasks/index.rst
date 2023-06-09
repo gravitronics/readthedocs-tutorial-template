@@ -11,6 +11,7 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_task_executor/index
-   automata_task_registry/index
-   task/index
+   automata_execute_behavior
+   automata_task
+   automata_task_database
+   automata_task_registry

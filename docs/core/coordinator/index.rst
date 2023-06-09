@@ -11,7 +11,8 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_coordinator/index
-   automata_coordinator_utils/index
    automata_instance/index
    tests/index
+   automata_coordinator
+   automata_coordinator_factory
+   automata_instance

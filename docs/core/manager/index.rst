@@ -11,5 +11,5 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_manager/index
-   automata_manager_factory/index
+   automata_manager
+   automata_manager_factory

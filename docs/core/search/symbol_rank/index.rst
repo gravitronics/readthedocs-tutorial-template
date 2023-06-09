@@ -11,6 +11,7 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   symbol_embedding_map/index
-   symbol_rank/index
-   symbol_similarity/index
+   symbol_embedding_map
+   symbol_rank
+   symbol_rank_config
+   symbol_similarity
