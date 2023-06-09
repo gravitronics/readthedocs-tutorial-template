@@ -1,5 +1,5 @@
-automata_agent_config_utils
-===========================
+symbol_similarity
+=================
 
 **Automata** is a Python library for autonomous agents.
 
@@ -11,5 +11,5 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_agent_config_builder/index
-   automata_agent_config_builder
+   symbol_similarity/index
+   symbol_similarity

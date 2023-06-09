@@ -14,3 +14,4 @@ how to :ref:`installation` the project.
    automata_task_executor/index
    automata_task_registry/index
    task/index
+   automata_task_registry

@@ -12,4 +12,5 @@ how to :ref:`installation` the project.
    :maxdepth: 1
 
    AutomataInstance/index
+   automata_instance/index
    automata_instance

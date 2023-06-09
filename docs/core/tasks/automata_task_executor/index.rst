@@ -1,5 +1,5 @@
-automata_agent_config_utils
-===========================
+automata_task_executor
+======================
 
 **Automata** is a Python library for autonomous agents.
 
@@ -11,5 +11,5 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   automata_agent_config_builder/index
-   automata_agent_config_builder
+   automata_execute_behavior/index
+   automata_execute_behavior
