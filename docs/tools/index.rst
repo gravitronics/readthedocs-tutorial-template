@@ -11,4 +11,4 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   search/index
+   search

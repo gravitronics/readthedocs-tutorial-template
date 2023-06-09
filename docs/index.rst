@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 2
 
-   configs/index
-   core/index
-   tool_management/index
-   tools/index
+   configs
+   core
+   tool_management
+   tools
