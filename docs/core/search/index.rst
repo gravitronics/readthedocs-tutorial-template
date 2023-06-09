@@ -9,7 +9,7 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    symbol_rank/index
    symbol

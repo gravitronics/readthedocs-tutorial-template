@@ -9,6 +9,6 @@ how to :ref:`installation` the project.
 .. note::
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    mock_automata_instance
