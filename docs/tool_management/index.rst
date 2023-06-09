@@ -1,5 +1,5 @@
-tools
-=====
+tool_management
+===============
 
 **Automata** is a Python library for autonomous agents.
 
@@ -11,4 +11,4 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   search/index
+   symbol_searcher_tool_manager

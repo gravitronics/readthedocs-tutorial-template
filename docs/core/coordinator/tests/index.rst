@@ -1,4 +1,4 @@
-tools
+tests
 =====
 
 **Automata** is a Python library for autonomous agents.
@@ -11,4 +11,4 @@ how to :ref:`installation` the project.
 .. toctree::
    :maxdepth: 1
 
-   search/index
+   mock_automata_instance
